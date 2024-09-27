@@ -54,6 +54,4 @@ This is a simple PHP Rate Limiting library designed to limit API requests or use
 
    You can create your own storage class by implementing the `StorageInterface` and integrate Redis, Memcached, or any other storage system.
 
-## License
 
-MIT License
