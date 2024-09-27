@@ -1,22 +1,20 @@
 {
-    "name": "fathkoc/RateLimiterLibrary",
-    "description": "A simple security library for PHP applications.",
+    "name": "fathkoc/rate-limiter-library",
+    "description": "A simple PHP library for rate limiting API requests.",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "RateLimiterLibrary\\": "src/"
         }
     },
     "require": {
-        "php": ">=7.4"
+        "php": ">=7.0"
     },
-    "license": "MIT",
     "authors": [
         {
-            "name": "fathkoc",
+            "name": "fatih",
             "email": "fathkccc@gmail.com"
         }
-    ],
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    ]
 }
