@@ -1,0 +1,22 @@
+{
+    "name": "fathkoc/RateLimiterLibrary",
+    "description": "A simple security library for PHP applications.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "RateLimiterLibrary\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fathkoc",
+            "email": "fathkccc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
