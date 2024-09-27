@@ -17,7 +17,7 @@ This is a simple PHP Rate Limiting library designed to limit API requests or use
    If you're using composer, you can install it by running:
 
    ```
-   composer require your-vendor/rate-limiter-library
+ composer require fathkoc/rate-limiter-library
    ```
 
 2. **Basic Example**:
